@@ -1,0 +1,11 @@
+mongodb+srv://manuelalejandro10355:maneC1035@adso2903013.zozvq.mongodb.net/
+
+npm uninstall nombredelpaquete 
+paquetes de desarrollo de debe poner un -D 
+
+nodemon corre el servidor en el segundo plano 
+node empieza el servidor 
+
+correr scripts de nodemon npm run nombreScript
+
+.gitignore sirve para no enviar archvios o carpetas al respositorio

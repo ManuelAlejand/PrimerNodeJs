@@ -10,7 +10,11 @@ const mongoose = require("../config/connection");
       type: Number,
       required: true,
     },
-  });
+
+  }
+,{versionKey:false});
+
+
 
   const producto = mongoose.model("producto", schemaProducto);
   module.exports = producto;
